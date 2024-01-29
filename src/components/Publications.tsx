@@ -1,8 +1,7 @@
-
-
+import "../css/publications.css"
 const Publications = () => {
   return (
-    <div>Publications</div>
+    <div className="works">Publications</div>
   )
 }
 

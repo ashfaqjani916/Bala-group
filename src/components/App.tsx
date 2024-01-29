@@ -10,6 +10,7 @@ import Footer from './Footer'
 import Home from './Home'
 
 
+
 function App() {
   
   return (
@@ -17,6 +18,7 @@ function App() {
    
     <Router>
     <Header/>
+   
     <Routes>
     <Route path="/" element={<Home/>}/>
       <Route path="/Research" element={<Research/>}/>

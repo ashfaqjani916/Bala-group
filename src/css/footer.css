@@ -1,0 +1,45 @@
+
+.footerItems >a{
+    background-color: transparent;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.footerItems{
+    margin-top: 2rem;
+    background-color: var(--primary);
+    width: 800px;
+    margin-left: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}  
+    
+.foot{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    background-color: #1597BB;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: space-evenly;
+}
+.social{
+    background-color: #1597BB;
+    align-items: center;
+}
+.social>a{
+    background-color: #1597BB;
+}
+.copyright{
+    color: aliceblue;
+}
+.copyright >p{
+    background-color: #1597BB;
+}
+.copyright p a {
+    background-color: #1597BB;
+    color: aliceblue;
+    
+}

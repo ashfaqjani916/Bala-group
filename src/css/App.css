@@ -1,9 +1,4 @@
-.foot{
-    width: 100vw;
-    height: 20vh;
-    display: flex;
-    background-color: #1597BB;
-}
+
 :root{
     --primary: #1597BB;
     --secondary: aliceblue;
@@ -12,21 +7,3 @@
     scroll-behavior: smooth;
 }
   
-
-.footerItems >a{
-    background-color: transparent;
-    text-decoration: none;
-    color: aliceblue;
-
-}
-
-.footerItems{
-    /* border: 2px solid red; */
-    background-color: var(--primary);
-    width: 800px;
-    margin-left: 80px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}  
-    

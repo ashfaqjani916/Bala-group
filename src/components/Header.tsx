@@ -2,13 +2,20 @@ import "../css/header.css"
 import { NavLink } from "react-router-dom"
 import { useState } from "react";
 import { CiMenuFries } from "react-icons/ci";
-
-
-
+import Contact from "./Contact";
 
 const Header = () => {
 
+
   const [menu,setMenu] = useState(false);
+  const [contact,setContact] = useState<boolean>(false);
+    
+// const openContact = ()=>{
+//   setContact(true);
+// }
+const closeContact = ()=>{ 
+  setContact(false);
+}
   return (
     <header>
     <div className="topbar">
@@ -25,12 +32,17 @@ const Header = () => {
         <NavLink to="/Publications">Research Output</NavLink>
         <NavLink to="/Team">Team</NavLink>
         <NavLink to="/Links">Useful Links</NavLink>
-        <button>Contact us</button>
+        <button onClick={()=>{
+          setContact(true);
+        }}>Contact us</button>
         
     </nav>
+
     <div className="burger">
       <CiMenuFries onClick={()=>{setMenu(!menu);}} style={{backgroundColor:"transparent",color:"aliceblue",fontSize:"50px",fontWeight:"bolder"}}/>
         </div>
+
+        {contact && <Contact contactFun={setContact}/>}
     </div>
 </header>
 

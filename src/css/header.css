@@ -98,6 +98,6 @@ button:hover{
         display: flex;
     }
     nav{
-        
+        display: none;
     }
 }

@@ -21,7 +21,7 @@ const Footer = () => {
         <Link to="/Links">Useful Links</Link>
         </div>
 
-        <div className="social">
+        <div className="sociallinkuu">
           <a href="https://www.linkedin.com/in/balaji-babu-b4414772/"> <FaLinkedin style={mystyle}/></a>
         <a href="https://twitter.com/home"><FaTwitter  style={mystyle}/></a>
         <a href="https://www.instagram.com/balajibabu10/"><FaInstagram style={mystyle} /></a>

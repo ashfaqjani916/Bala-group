@@ -11,6 +11,7 @@ import Home from './Home'
 
 
 
+
 function App() {
   
   return (
@@ -26,6 +27,7 @@ function App() {
       <Route path="/team" element={<Team/>}/>
       <Route path="/links" element={<Links/>}/>
     </Routes>
+  
     <Footer/>
     </Router>
       

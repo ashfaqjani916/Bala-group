@@ -25,11 +25,12 @@
     align-items: center;
     justify-content: space-evenly;
 }
-.social{
+.sociallinkuu{
+    display: flex;
     background-color: #1597BB;
     align-items: center;
 }
-.social>a{
+.sociallinkuu>a{
     background-color: #1597BB;
 }
 .copyright{

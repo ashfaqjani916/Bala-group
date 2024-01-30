@@ -10,12 +10,7 @@ const Header = () => {
   const [menu,setMenu] = useState(false);
   const [contact,setContact] = useState<boolean>(false);
     
-// const openContact = ()=>{
-//   setContact(true);
-// }
-const closeContact = ()=>{ 
-  setContact(false);
-}
+
   return (
     <header>
     <div className="topbar">

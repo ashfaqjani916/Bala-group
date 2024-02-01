@@ -1,7 +1,14 @@
+import "../css/links.css"
+import { RiLinksLine } from "react-icons/ri";
+
 
 const Links = () => {
   return (
-    <div>Links</div>
+    
+    <div className="links">
+      <RiLinksLine />
+      Links
+    </div>
   )
 }
 

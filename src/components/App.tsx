@@ -9,15 +9,13 @@ import Team from './Team'
 import Footer from './Footer'
 import Home from './Home'
 
-
-
-
 function App() {
   
   return (
     <>
    
     <Router>
+      
     <Header/>
    
     <Routes>

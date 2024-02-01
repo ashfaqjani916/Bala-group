@@ -15,7 +15,7 @@ const Header = () => {
     <header>
     <div className="topbar">
         <div className="logo">
-            <h3>ChemSite</h3>
+          <img src="../assets/logo.png"/>
         </div>
 
         <div className="middle"></div>
@@ -34,7 +34,7 @@ const Header = () => {
     </nav>
 
     <div className="burger">
-      <CiMenuFries onClick={()=>{setMenu(!menu);}} style={{backgroundColor:"transparent",color:"aliceblue",fontSize:"50px",fontWeight:"bolder"}}/>
+      <CiMenuFries onClick={()=>{setMenu(!menu);}} style={{backgroundColor:"transparent",color:"#055970",fontSize:"50px",fontWeight:"bolder"}}/>
         </div>
 
         {contact && <Contact contactFun={setContact}/>}

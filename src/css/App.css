@@ -1,7 +1,7 @@
 
 :root{
-    --primary: #1597BB;
-    --secondary: aliceblue;
+    --primary: ivory;
+    --secondary: #1597BB;
 }
 *{
     scroll-behavior: smooth;

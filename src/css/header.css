@@ -10,9 +10,8 @@
     width: 100vmax;
     height: 10vh;
     display: flex;
-
-    border: 2px solid red;
-    position: fixed;  
+    border: 1px solid red; 
+    position: relative;
 }
 .topbar > div{
     background: var(--primary)   
@@ -62,21 +61,13 @@ button:hover{
 
 .burger{
     display: none;
-    position: absolute;
+    position:absolute;
     top: 1.2rem;
     right: 3.5rem;
-    flex-direction: column;
-    justify-content: space-between;
     width: 2.25rem;
     height: 2rem;
 }
 
-.burger span{
-    height: 0.4rem;
-    width: 100%;
-    background-color: var(--secondary);
-    border-radius: 0.2rem;
-}
 
 
 .open{
@@ -100,6 +91,9 @@ button:hover{
 @media(max-width: 1300px){
     .burger{
         display: flex;
+    }
+    .middle{
+        width: 98vmax;
     }
     nav{
         display: none;

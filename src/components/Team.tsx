@@ -13,7 +13,7 @@ const Team = () => {
     <div className="col-12 col-sm-6 col-md-4 col-lg-3 w-40 mx-10 rounded">
       <div className="our-team">
         <div className="picture">
-          <img className="img-fluid" src=""/>
+          <img className="img-fluid" src="./dp.png"/>
         </div>
         <div className="team-content">
           <h3 className="name">Dr.Balaji Babu</h3>

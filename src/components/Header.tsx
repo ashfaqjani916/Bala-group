@@ -3,6 +3,8 @@ import { NavLink } from "react-router-dom"
 import { useState } from "react";
 import { CiMenuFries } from "react-icons/ci";
 import Contact from "./Contact";
+import { Link } from "react-router-dom";
+
 
 const Header = () => {
 
@@ -14,10 +16,11 @@ const Header = () => {
   return (
     <header>
     <div className="topbar">
-        <div className="logo">
-          <img src="../assets/logo.png"/>
+      <Link to="/"><div className="logo ml-6 mt-1">
+          <img src={'./logo.png'} style={{height:"60px",width:"120px"}}/>
         </div>
-
+</Link>
+        
         <div className="middle"></div>
 
        <nav className={menu ? "open":""}>

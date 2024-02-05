@@ -1,30 +1,314 @@
 {
-        "publications":[
-                {
-                        "title":"The photodynamic activity properties of a series of structurally analogous tetraarylporphyrin, chlorin and N-confused porphyrin dyes and their Sn (IV) complexes",
-                        "journal":"Photodiagnosis and Photodynamic Therapy, 103815",
-                        "link":"https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=CtI2VlYAAAAJ&sortby=pubdate&citation_for_view=CtI2VlYAAAAJ:WbkHhVStYXYC"
-                },
-                {
-                        "title": "Photodynamic Anticancer and Antibacterial Activities of Sn(IV) N-Confused Meso-tetra(methylthiophenyl)porphyrin",
-                        "journal": "Photochem 3 (3), 313-326",
-                        "citation_link": "/citations?view_op=view_citation&hl=en&user=CtI2VlYAAAAJ&sortby=pubdate&citation_for_view=CtI2VlYAAAAJ:Tiz5es2fbqcC"
-                },
-                    {
-                        "title": "The Photodynamic Anticancer and Antibacterial Activity Properties of a Series of meso-Tetraarylchlorin Dyes and Their Sn(IV) Complexes",
-                        "journal": "Molecules 28 (10), 4030",
-                        "citation_link": "/citations?view_op=view_citation&hl=en&user=CtI2VlYAAAAJ&sortby=pubdate&citation_for_view=CtI2VlYAAAAJ:XiSMed-E-HIC"
-                    },
-                    {
-                        "title": "An international journal of inorganic chemistry incorporating Acta Chemica Scandinavica",
-                        "journal": "Dalton Trans 52, 4989-4999",
-                        "citation_link": "/citations?view_op=view_citation&hl=en&user=CtI2VlYAAAAJ&sortby=pubdate&citation_for_view=CtI2VlYAAAAJ:u9iWguZQMMsC"
-                    },
-                    {
-                        "title": "Sn (IV)-porphyrinoids for photodynamic anticancer and antimicrobial chemotherapy",
-                        "journal": "Dalton Transactions",
-                        "citation_link": "/citations?view_op=view_citation&hl=en&user=CtI2VlYAAAAJ&sortby=pubdate&citation_for_view=CtI2VlYAAAAJ:p2g8aNsByqUC"
-                    }
-
-        ]
-}
+            "publications": [
+              {
+                "title": "The photodynamic activity properties of a series of structurally analogous tetraarylporphyrin, chlorin and N-confused porphyrin dyes and their Sn (IV) complexes",
+                "authors": ["Rodah Soy", "Balaji Babu", "John Mack", "Tebello Nyokong"],
+                "journal": "Photodiagn. Photodyn. Ther.",
+                "year": 2023,
+                "volume": 44,
+                "pages": "103815",
+                "doi": "https://doi.org/10.1016/j.pdpdt.2023.103815"
+              },
+              {
+                "title": "Photodynamic Anticancer and Antibacterial Activities of Sn(IV) N-Confused Meso-tetra(methylthiophenyl)porphyrin",
+                "authors": ["Somila Dingiswayo", "Balaji Babu", "Kristen Burgess", "John Mack*", "Tebello Nyokong"],
+                "journal": "Photochem",
+                "year": 2023,
+                "volume": 3,
+                "issue": 3,
+                "pages": "313-326",
+                "doi": "https://doi.org/10.3390/photochem3030019"
+              },
+              {
+                "title": "The Photodynamic Anticancer and Antibacterial Activity Properties of a Series of meso-Tetraarylchlorin Dyes and Their Sn(IV) Complexes",
+                "authors": ["Rodah C. Soy", "Balaji Babu", "John Mack*", "Tebello Nyokong"],
+                "journal": "Molecules",
+                "year": 2023,
+                "volume": 28,
+                "issue": 10,
+                "pages": "4030",
+                "doi": "https://doi.org/10.3390/molecules28104030"
+              },
+              {
+                "title": "Sn(IV)-porphyrinoids for photodynamic anticancer and antimicrobial chemotherapy",
+                "authors": ["Balaji Babu", "John Mack*", "Tebello Nyokong"],
+                "journal": "Dalton Trans.",
+                "year": 2023,
+                "volume": 52,
+                "pages": "5000-5018",
+                "doi": "https://doi.org/10.1039/D3DT00603D"
+              },
+              {
+                "title": "Ga(III) triarylcorroles with Push-Pull Substitutions: Synthesis, Electronic Structure and Biomedical Applications",
+                "authors": ["Yingjie Niu", "Lin Wang", "Yingxin Guo", "Weihua Zhu", "Rodah Soy", "Balaji Babu", "John Mack*", "Tebello Nyokong", "Hai-Jun Xu*", "Xu Liang*"],
+                "journal": "Dalton Trans.",
+                "year": 2022,
+                "volume": 51,
+                "pages": "10543-10551",
+                "doi": "https://doi.org/10.1039/D2DT01262F"
+              },
+              {
+                "title": "Photodynamic antitumor and photodynamic antimicrobial activities of free base tetra(4-methylthiolphenyl)chlorin and its Sn(IV) complex",
+                "authors": ["Somila Dingiswayo", "Kristen Burgess", "Balaji Babu", "John Mack*", "Tebello Nyokong"],
+                "journal": "ChemPlusChem",
+                "year": 2022,
+                "volume": 87,
+                "pages": "e202200115",
+                "doi": "https://doi.org/10.1002/cplu.202200115"
+              },
+              {
+                "title": "Novel cationic-chalcone phthalocyanines for photodynamic therapy eradication of S. aureus and E. coli bacterial biofilms and MCF-7 breast cancer",
+                "authors": ["Yolande Ikala Openda*", "Balaji Babu", "Tebello Nyokong*"],
+                "journal": "Photodiagn. Photodyn. Ther.",
+                "year": 2022,
+                "volume": 38,
+                "pages": "102863",
+                "doi": "https://doi.org/10.1016/j.pdpdt.2022.102863"
+              },
+              {
+                "title": "A Sn(IV) porphyrin with mitochondria targeting properties for enhanced photodynamic activity against MCF-7 cells",
+                "authors": ["Balaji Babu", "John Mack*", "Tebello Nyokong"],
+                "journal": "New J. Chem.",
+                "year": 2022,
+                "volume": 46,
+                "pages": "5288–5295",
+                "doi": "https://doi.org/10.1039/D2NJ00350C"
+              },
+              {
+                "title": "Sn(IV) porphyrin-biotin decorated nitrogen doped graphene quantum dots nanohybrids for photodynamic therapy",
+                "authors": ["N. Bridged Magaela", "Refilwe Matshitse", "Balaji Babu", "Muthumuni Managa", "Earl Prinsloo", "Tebello Nyokong*"],
+                "journal": "Polyhedron",
+                "year": 2022,
+                "volume": 213,
+                "pages": "115624",
+                "doi": "https://doi.org/10.1016/j.poly.2021.115624"
+              },
+              {
+                "title": "The photodynamic activities of the gold nanoparticle conjugates of phosphorus(V) and gallium(III) A3 meso-triarylcorroles",
+                "authors": ["Rodah C. Soy", "Balaji Babu", "John Mack*", "Tebello Nyokong"],
+                "journal": "Dyes Pigm.",
+                "year": 2021,
+                "volume": 194,
+                "pages": "109631",
+                "doi": "https://doi.org/10.1016/j.dyepig.2021.109631"
+              },
+              {
+                "title": "Positively charged styryl pyridine substituted Zn (II) Phthalocyanines for Photodynamic Therapy and Photoantimicrobial Chemotherapy: Effect of the number of charges",
+                "authors": ["Aviwe Magadla", "Balaji Babu", "John Mack", "Tebello Nyokong*"],
+                "journal": "Dalton Trans.",
+                "year": 2021,
+                "volume": 50,
+                "pages": "9129-9136",
+                "doi": "https://doi.org/10.1039/D1DT01047F"
+              },
+              {
+                "title": "The photophysicochemical properties and photodynamic therapy activity of Schiff base substituted phthalocyanines doped into silica nanoparticles and conjugated to folic acid",
+                "authors": ["Aviwe Magadla", "Balaji Babu", "Pinar Sen", "Tebello Nyokong*"],
+                "journal": "Polyhedron",
+                "year": 2021,
+                "volume": 203,
+                "pages": "1152273",
+                "doi": "https://doi.org/10.1016/j.poly.2021.115227"
+              },
+              {
+                "title": "A heavy-atom-free π-extended N-confused porphyrin as a photosensitizer for photodynamic therapy",
+                "authors": ["Balaji Babu", "John Mack*", "Tebello Nyokong*"],
+                "journal": "New J. Chem.",
+                "year": 2021,
+                "volume": 45,
+                "pages": "5654-5658",
+                "doi": "https://doi.org/10.1039/D1NJ00112D"
+              },
+              {
+                "title": "Photodynamic activity and photoantimicrobial chemotherapy studies of ferrocene-substituted 2-thiobarbituric acid",
+                "authors": ["Balaji Babu*", "Thivagar Ochappan", "Thaslima Asraf Ali", "John Mack", "Tebello Nyokong", "Mathur Gopalakrishnan Sethuraman*"],
+                "journal": "Bioorg. Med. Chem. Lett.",
+                "year": 2021,
+                "volume": 40,
+                "pages": "127922",
+                "doi": "https://doi.org/10.1016/j.bmcl.2021.127922"
+              },
+              {
+                "title": "Naked Eye and Colorimetric Detection of Cyanide with a 1,3-Diethyl-2-thiobarbituric Acid Substituted Ferrocene Chemosensor",
+                "authors": ["Balaji Babu*", "John Mack", "Tebello Nyokong"],
+                "journal": "ChemistrySelect",
+                "year": 2021,
+                "volume": 6,
+                "pages": "1448-1452",
+                "doi": "https://doi.org/10.1002/slct.202100163"
+              },
+              {
+                "title": "Photodynamic activity of Sn(IV) tetrathien-2-ylchlorin against MCF-7 breast cancer cells",
+                "authors": ["Balaji Babu", "John Mack*", "Tebello Nyokong*"],
+                "journal": "Dalton Trans.",
+                "year": 2021,
+                "volume": 50,
+                "pages": "2177-2182",
+                "doi": "https://doi.org/10.1039/D0DT03958F"
+              },
+              {
+                "title": "Photocytotoxicity of heavy-atom-free thiobarbituric acid functionalized pyrene derivatives against MCF-7 cancer cells",
+                "authors": ["Balaji Babu*", "Thaslima Asraf Ali", "Thivagar Ochappan", "John Mack", "Tebello Nyokong", "Mathur Gopalakrishnan Sethuraman*"],
+                "journal": "Photodiagn. Photodyn. Ther.",
+                "year": 2021,
+                "volume": 33,
+                "pages": "102102",
+                "doi": "https://doi.org/10.1016/j.pdpdt.2020.102102"
+              },
+              {
+                "title": "Photodynamic activity of 2,6-dibrominated dimethylaminophenylbuta-1,3-dienylBODIPY dyes",
+                "authors": ["Gugu Kubheka", "Balaji Babu", "Earl Prinsloo", "Nagao Kobayashi", "John Mack*", "Tebello Nyokong"],
+                "journal": "J. Porphyr. Phthalocyanines",
+                "year": 2021,
+                "volume": 25,
+                "pages": "47-55",
+                "doi": "https://doi.org/10.1142/S1088424620500509"
+              },
+              {
+                "title": "Thien-2-yl substituted chlorins as photosensitizers for photodynamic therapy and photodynamic antimicrobial chemotherapy",
+                "authors": ["Balaji Babu", "Azole Sindelo", "John Mack*", "Tebello Nyokong*"],
+                "journal": "Dyes Pigm.",
+                "year": 2021,
+                "volume": 185,
+                "pages": "108886",
+                "doi": "https://doi.org/10.1016/j.dyepig.2020.108886"
+              },
+              {
+                "title": "Sn(IV) N-confused porphyrins as photosensitizer dyes for photodynamic therapy in the near IR region",
+                "authors": ["Balaji Babu", "John Mack*", "Tebello Nyokong*"],
+                "journal": "Dalton Trans.",
+                "year": 2020,
+                "volume": 49,
+                "pages": "15180-15183",
+                "doi": "https://doi.org/10.1039/D0DT03296D"
+              },
+              {
+                "title": "An octabrominated Sn(IV) tetraisopropylporphyrin as a photosensitizer dye for singlet oxygen biomedical applications",
+                "authors": ["Balaji Babu", "John Mack*", "Tebello Nyokong*"],
+                "journal": "Dalton Trans.",
+                "year": 2020,
+                "volume": 49,
+                "pages": "9568-9573",
+                "doi": "https://doi.org/10.1039/D0DT01915A"
+              },
+              {
+                "title": "Non-aggregated lipophilic water-soluble tin porphyrins as photosensitizers for photodynamic therapy and photodynamic antimicrobial chemotherapy",
+                "authors": ["Balaji Babu", "Rodah C. Soy", "John Mack*", "Tebello Nyokong"],
+                "journal": "New J. Chem",
+                "year": 2020,
+                "volume": 44,
+                "pages": "11006-11012",
+                "doi": "https://doi.org/10.1039/D0NJ01564D"
+              },
+              {
+                "title": "Photodynamic activity of 2, 6-diiodo-3, 5-dithienylvinyleneBODIPYs and their folate-functionalized chitosan-coated Pluronic® F-127 micelles on MCF-7 breast cancer cells",
+                "authors": ["Nthabeleng Molupe", "Balaji Babu", "David O. Oluwole", "Earl Prinsloo", "Lizhi Gai", "Zhen Shen", "John Mack*", "Tebello Nyokong"],
+                "journal": "J. Porphyr. Phthalocyanines",
+                "year": 2020,
+                "volume": 24,
+                "pages": "973-984",
+                "doi": "https://doi.org/10.1142/S1088424619501773"
+              },
+              {
+                "title": "The photophysicochemical properties and photodynamic therapy activity of In and Zn phthalocyanines when incorporated into individual or mixed Pluronic® micelles",
+                "authors": ["Banele M. Motloung", "Balaji Babu", "Earl Prinsloo", "Tebello Nyokong*"],
+                "journal": "Polyhedron",
+                "year": 2020,
+                "volume": 188,
+                "pages": "114683",
+                "doi": "https://doi.org/10.1016/j.poly.2020.114683"
+              },
+              {
+                "title": "A comparative study of the photophysicochemical and photodynamic activity properties of meso-4- methylthiophenyl functionalized Sn(IV) tetraarylporphyrins and triarylcorroles",
+                "authors": ["Somila Dingiswayo", "Balaji Babu", "Earl Prinsloo", "John Mack*", "Tebello Nyokong"],
+                "journal": "J. Porphyr. Phthalocyanines",
+                "year": 2020,
+                "volume": 24,
+                "pages": "1138–1145",
+                "doi": "https://doi.org/10.1142/S1088424620500273"
+              },
+              {
+                "title": "Susceptibility of Staphylococcus aureus to porphyrin-silver nanoparticle mediated photodynamic antimicrobial chemotherapy",
+                "authors": ["Samuel M Shabangu", "Balaji Babu", "Rodah C. Soy", "James Oyim", "Edith Amuhaya", "Tebello Nyokong*"],
+                "journal": "J. Lumin.",
+                "year": 2020,
+                "volume": 222,
+                "pages": "117158",
+                "doi": "https://doi.org/10.1016/j.jlumin.2020.117158"
+              },
+              {
+                "title": "Photodynamic antimicrobial chemotherapy of asymmetric porphyrin-silver conjugates towards photoinactivation of Staphylococcus aureus",
+                "authors": ["Samuel M. Shabangu", "Balaji Babu", "Rodah C. Soy", "Muthumuni Managa", "Kutloano E. Sekhosana", "Tebello Nyokong*"],
+                "journal": "J. Coord. Chem.",
+                "year": 2020,
+                "volume": 73,
+                "issue": 4,
+                "pages": "593-608",
+                "doi": "https://doi.org/10.1080/00958972.2020.1739273"
+              },
+              {
+                "title": "Photodynamic activity of Sn(IV) meso-tetraacenaphthylporphyrin and its methyl-cyclodextrin inclusion complexes on MCF-7 breast cancer cells",
+                "authors": ["Nthabeleng Molupe", "Balaji Babu", "Earl Prinsloo", "Abdessamad Y. A. Kaassis", "Katharina Edkins", "John Mack*", "Tebello Nyokong"],
+                "journal": "J. Porphyr. Phthalocyanines",
+                "year": 2019,
+                "volume": 23,
+                "pages": "1486-1494",
+                "doi": "https://doi.org/10.1142/S1088424619501633"
+              },
+              {
+                "title": "Photophysicochemical properties and photodynamic therapy activity of chloroindium(III) tetraarylporphyrins and their gold nanoparticle conjugates",
+                "authors": ["Rodah C. Soy", "Balaji Babu", "David O. Oluwole", "Njemuwa Nwaji", "James Oyim", "Edith Amuhaya", "Earl Prinsloo", "John Mack*", "Tebello Nyokong"],
+                "journal": "J. Porphyr. Phthalocyanines",
+                "year": 2019,
+                "volume": 23,
+                "pages": "34-45",
+                "doi": "https://doi.org/10.1142/S1088424618501146"
+              },
+              {
+                "title": "Synthesis, characterization and photodynamic activity of Sn (IV) triarylcorroles with red-shifted Q bands",
+                "authors": ["Balaji Babu", "Earl Prinsloo", "John Mack*", "Tebello Nyokong"],
+                "journal": "New J. Chem",
+                "year": 2019,
+                "volume": 43,
+                "pages": "18805-18812",
+                "doi": "https://doi.org/10.1039/C9NJ03391B"
+              },
+              {
+                "title": "Preparation of polyacrylamide-supported Sn(IV) tetraarylporphyrins and their photodynamic activities",
+                "authors": ["Balaji Babu", "Nthabeleng Molupe", "John Mack*", "Tebello Nyokong"],
+                "journal": "J. Porphyr. Phthalocyanines",
+                "year": 2019,
+                "volume": 23,
+                "pages": "611-619",
+                "doi": "https://doi.org/10.1142/S1088424619500612"
+              },
+              {
+                "title": "Photodynamic activity of chloroaluminum phthalocyanines conjugated to silver nanoparticles in MCF-7 cancer cells",
+                "authors": ["Rodah C. Soy", "Balaji Babu", "James Oyim", "Edith Amuhaya", "David O. Oluwole", "Earl Prinsloo", "John Mack*", "Tebello Nyokong"],
+                "journal": "Polyhedron",
+                "year": 2019,
+                "volume": 169,
+                "pages": "10-18",
+                "doi": "https://doi.org/10.1016/j.poly.2019.05.013"
+              },
+              {
+                "title": "Photodynamic therapy activities of Sn (IV) triarylcorroles under dark and light conditions",
+                "authors": ["Balaji Babu", "Nthabeleng Molupe", "John Mack*", "Tebello Nyokong"],
+                "journal": "J. Porphyr. Phthalocyanines",
+                "year": 2019,
+                "volume": 23,
+                "pages": "465-473",
+                "doi": "https://doi.org/10.1142/S1088424619500466"
+              },
+              {
+                "title": "A highly selective colorimetric chemosensor for detection of Pd(II) ions in aqueous media",
+                "authors": ["Ranjeet Kumar", "Suresh Kumar", "Gaurav Sharma", "Balaji Babu", "Santosh Kumar", "Brijesh Rathi"],
+                "journal": "Inorg. Chem. Commun.",
+                "year": 2017,
+                "volume": 80,
+                "pages": "101-105",
+                "doi": "https://doi.org/10.1016/j.inoche.2017.04.011"
+              }
+            ]
+          }
+          

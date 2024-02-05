@@ -6,8 +6,8 @@ const Contact = ({ contactFun }: { contactFun: (value: boolean) => void }) => {
     return (
      <Modal
       isOpen={true}  
-     className="popup-content">
-<section className="contact-container">
+     className="popup-content relative">
+    <section className="contact-container z-50">
 <div className="contact-content">
   <button className="contact-close-button" onClick={() => contactFun(false)}>
     Close

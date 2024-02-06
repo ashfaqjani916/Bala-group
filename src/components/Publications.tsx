@@ -28,19 +28,22 @@ const Publications = () => {
 
   
   return (  
-    <div className="works">
-    <h1>Your Publications</h1>
-    <ul>
+    <div className="works gap-2">
+      <h1>Publications</h1>
+      <ul>
       {publications.map((publication, index) => (
+        <a href={publication.doi}>
+        <div className ="individual-container flex shadow-xl items-center justify-between px-4">
         <li key={index}>
-          <a href="publication.doi"></a>
           <strong>{publication.title}</strong>
           <p>Journal: {publication.journal}</p>
           {/* ... other fields */}
         </li>
+        <img src={`photos/Picture${index+1}.png`} alt="image" className="h-[130px] w-auto" />
+        </div></a>
       ))}
     </ul>
-  </div>
+      </div>    
   )
 }
 

@@ -1,6 +1,24 @@
 .works{
     background-color: #fffff0;
     width: 100vmax;
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 200px;
+}
+
+.works h1{
+    font-size: 50px;
+    padding: 10px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.individual-container{
     
-    border: 2px solid rebeccapurple;
+    margin: 5px;
+    padding: 5px;
+    
 }

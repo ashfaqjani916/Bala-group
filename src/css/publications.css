@@ -1,5 +1,6 @@
 .works{
-    background-color: ivory;
+    background-color: #fffff0;
     width: 100vmax;
-    height: 1024px;
+    
+    border: 2px solid rebeccapurple;
 }
